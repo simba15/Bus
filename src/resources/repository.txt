@@ -1,0 +1,11 @@
+<service>Posh 10:15 11:10
+<service>Posh 10:10 11:00
+<service>Grotty 10:10 11:00
+<service>Grotty 16:30 18:45
+<service>Posh 12:05 12:30
+<service>Posh 16:05 16:30
+<service>Grotty 12:30 13:25
+<service>Grotty 12:45 13:25
+<service>Grotty 12:45 13:15
+<service>Posh 17:25 18:01
+<end-of-file>

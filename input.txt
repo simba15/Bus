@@ -1,0 +1,8 @@
+<posh_service>Posh 10:10 11:00
+<posh_service>Posh 10:15 11:10
+<posh_service>Posh 12:05 12:30
+<posh_service>Posh 16:05 16:30
+<posh_service>Posh 17:25 18:01
+<blank line>
+<grotty_service>Grotty 12:45 13:25
+<end-of-file>
