@@ -83,7 +83,7 @@ public class WriteInFile {
     }
 
     private static void inputeFile (ArrayList<Bus> poshList,ArrayList<Bus> grottyList) throws IOException {
-        FileWriter fileWriter = new FileWriter("input.txt", false);
+        FileWriter fileWriter = new FileWriter("src/resources/output.txt", false);
         for (Bus bus:poshList) {
             fileWriter.write("<posh_service>"+bus.getComanyName()+" "+bus.getBeginWay()+" "+bus.getEndWay()+"\n");
         }
